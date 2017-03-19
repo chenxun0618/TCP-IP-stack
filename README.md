@@ -5,4 +5,6 @@ This is a project for the Networks and Distributed Systems course at Northeaster
 **DO NOT** use the code for acamedic purposes without the permission of the school.
 
 
-This program simulates a small TCP/IP stack, where the "client" communicates with an HTTP server to retrieve a document
+This program simulates a small TCP/IP stack, where the "client" communicates with an HTTP server to retrieve a document.
+
+The log file shows all the packets transmitted between the client and the server.
