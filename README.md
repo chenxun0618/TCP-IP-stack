@@ -7,4 +7,4 @@ This is a project for the Networks and Distributed Systems course at Northeaster
 
 This program simulates a small TCP/IP stack, where the "client" communicates with an HTTP server to retrieve a document.
 
-The log file shows all the packet transmission between the client and the server.
+The log file shows all the packet transmissions between the client and the server.
